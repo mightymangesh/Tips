@@ -32,8 +32,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://imgur.com/2BtidD7' title='Video Walkthrough - Basic' width='' alt='Video Walkthrough' />
+http://imgur.com/2BtidD7
+<img src='Tipster Walkthrough.gif' title='Video Walkthrough - Basic' width='' alt='Video Walkthrough' />
 - Walkthrough of the basic functions
 
 <img src='http://imgur.com/xUZq6Zd' title='Video Walkthrough - Basic' width='' alt='Video Walkthrough' />
